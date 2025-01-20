@@ -7,7 +7,9 @@
 </div>
 
 <div align="center">
-  <h3>Interactive Echoes</h3>
+  <h1>
+    Interactive Echoes
+  </h1>
   <p>Building audio software and modular open-source C++ solutions</p>
 </div>
 
