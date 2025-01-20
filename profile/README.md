@@ -6,4 +6,7 @@
   </picture>
 </div>
 
-# Interactive Echoes
+<div align="center">
+  <h3>Interactive Echoes</h3>
+  <p>Building audio software and modular open-source C++ solutions</p>
+</div>
