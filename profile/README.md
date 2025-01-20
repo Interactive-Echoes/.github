@@ -1,19 +1,15 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mozahzah/IECore/raw/master/Resources/IE-Brand-Kit/IE-Logo-Alt-NoBg.png?">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mozahzah/IECore/raw/master/Resources/IE-Brand-Kit/IE-Logo-NoBg.png?">
-  <img alt="IELogo" width="128">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mozahzah/IECore/raw/master/Resources/IE-Brand-Kit/IE-Logo-Banner-Alt-NoBg.png?">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mozahzah/IECore/raw/master/Resources/IE-Brand-Kit/IE-Logo-Banner-NoBg.png?">
+  <img alt="IELogo" width="700">
   </picture>
-</div>
-
-<div align="center">
-  <h1>
-    Interactive Echoes
-  </h1>
   <p>
     Building audio software and modular open-source C++ solutions
   </p>
 </div>
+
+
 
 ---
 ### About
