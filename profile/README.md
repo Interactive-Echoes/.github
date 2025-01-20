@@ -10,3 +10,9 @@
   <h3>Interactive Echoes</h3>
   <p>Building audio software and modular open-source C++ solutions</p>
 </div>
+
+---
+### About
+Interactive Echoes is a GitHub organization dedicated to developing audio software and modular open-source C++ solutions. We create both consumer-facing software, as well as versatile libraries and frameworks that empower developers to build C++ applications.  
+
+Our focus is on delivering high-quality, modular solutions that can be seamlessly integrated and customized for a wide range of audio and non-audio software projects.
