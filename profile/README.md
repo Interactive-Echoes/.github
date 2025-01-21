@@ -13,12 +13,6 @@
 
 ---
 ### About
-Interactive Echoes is a GitHub organization dedicated to developing audio software and modular open-source C++ solutions. We create both consumer-facing software, as well as versatile libraries and frameworks that empower developers to build C++ applications.  
+In the depths of development, Interactive Echoes conjures audio software and modular, open-source C++ solutions. Our craft bridges the realms of consumer-facing software, as well as versatile libraries and frameworks that empower developers to forge their own C++ creations.
 
 Our focus is on delivering high-quality, modular solutions that can be seamlessly integrated and customized for a wide range of audio and non-audio software projects.
-
-### Development Guidelines 
-1. License Compliance: All projects use the GPL-2.0-only license, ensuring openness and compliance with its terms. GPL-2.0-only license.
-2. Build System: We standardize on CMake for all builds to ensure consistency and cross-platform compatibility.
-3. Project Structure: We follow established project structure standards, with separate structures for apps and libraries, to maintain clarity and scalability across codebases.
-4. Coding Standards: Strict coding standards are followed to ensure high quality, readability, and maintainability of all code.
