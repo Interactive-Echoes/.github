@@ -16,3 +16,5 @@
 In the depths of development, Interactive Echoes conjures audio software and modular, open-source C++ solutions. Our craft bridges the realms of consumer-facing software, as well as versatile libraries and frameworks that empower developers to forge their own C++ creations.
 
 Our focus is on delivering high-quality, modular solutions that can be seamlessly integrated and customized for a wide range of audio and non-audio software projects.
+
+Our tale is written in the language of C++ and the echoes of audio software.
