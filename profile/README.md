@@ -5,7 +5,7 @@
   <img alt="IELogo" width="700">
   </picture>
   <h3>
-    Building audio software and modular open-source C++ solutions
+   Building tales of audio software and modular C++ solutions, a tale of echoes
   </h3>
 </div>
 
