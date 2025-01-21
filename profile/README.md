@@ -18,4 +18,4 @@ Interactive Echoes is an organization dedicated to developing audio tools and mo
 
 Our focus is on delivering high-quality, modular code that can be seamlessly integrated for a wide range of software projects.
 
-All good software should tell a story and our tales are written in the language of C++.
+**All good software should tell a story and our tales are written in the language of C++.**
