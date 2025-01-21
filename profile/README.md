@@ -4,9 +4,9 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mozahzah/IECore/raw/master/Resources/IE-Brand-Kit/IE-Logo-Banner-NoBg.png?">
   <img alt="IELogo" width="700">
   </picture>
-  <p>
+  <h3>
     Building audio software and modular open-source C++ solutions
-  </p>
+  </h3>
 </div>
 
 
