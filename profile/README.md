@@ -14,7 +14,7 @@
 ---
 ### About
 
-Interactive Echoes is an organization dedicated to developing audio tools and modular solutions. Our craft bridges the realms of consumer-facing software, as well as versatile libraries and frameworks that empower developers to forge their own creations.
+Interactive Echoes is an organization dedicated to developing audio tools and general-purpose modular C++ solutions. Our craft bridges the realms of consumer-facing software, as well as versatile libraries and frameworks that empower developers to forge their own creations.
 
 Our focus is on delivering high-quality, modular code that can be seamlessly integrated for a wide range of software projects.
 
