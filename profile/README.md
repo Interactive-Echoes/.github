@@ -19,3 +19,6 @@ Interactive Echoes is an organization dedicated to developing audio tools and ge
 Our focus is on delivering high-quality, modular code that can be seamlessly integrated for a wide range of software projects.
 
 **All good software should tell a story and our tales are written in the language of C++.**
+
+### Find Our Wiki Here to Get Started
+Welcome to the journey. If you're new to Interactive Echoes, this [Wiki](https://github.com/Interactive-Echoes/IE/wiki) is where it all begins. Within these pages lies everything you need—coding standards, development practices, and the keys to mastering our workflows. Whether you're here to build, contribute, or explore, the Wiki will guide you through the foundation of our craft.
