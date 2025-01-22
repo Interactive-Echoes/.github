@@ -31,15 +31,15 @@ Example:
 class IEHelperClass // Secondary class
 {
     //...
-}  
+}
 enum class IEState // Secondary enum
 { 
     //...
-}   
+}
 class IEClass // Primary class - file is named after this
 {
     //...
-}        
+}
 ```
 
 ## Brace Placement
