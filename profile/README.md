@@ -17,7 +17,6 @@ Our focus is on delivering high-quality, modular code that can be seamlessly int
 
 ---
 
-<h3 align="center">
-   Our Wiki
-</h3>
+### Wiki
+
 If you're new to Interactive Echoes, this <a href="https://github.com/Interactive-Echoes/IE/wiki">Wiki</a> is where it all begins. Within these pages lies everything you need—coding standards, development practices, and the keys to mastering our workflows. Whether you're here to build, contribute, or explore, the Wiki will guide you through the foundation of our craft.
