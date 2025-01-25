@@ -8,7 +8,8 @@
 
 ***
 
-Modular open-source C++ libraries, building blocks for app development.   
+Interactive Echoes offers modular, open-source C++ libraries as building blocks for app development, along with utility applications. Our tools are cross-platform and meant for integration into various projects.
+
 Get started with our <a href="https://github.com/Interactive-Echoes/IE/wiki">Wiki</a> for coding standards, practices, and workflows.
 
 **All good software should tell a story and our tales are written in the language of C++.**   
