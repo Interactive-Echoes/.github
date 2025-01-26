@@ -8,7 +8,7 @@
 
 ***
 
-Collection of open-source applications and modular C++ libraries as app development building blocks, for Linux, Windows and macOS.  
+A collection of open-source applications and modular C++ libraries serving as development building blocks for Linux, Windows and macOS based applications.  
 Get started with our <a href="https://github.com/Interactive-Echoes/IE/wiki">Wiki</a> for coding standards, practices, and workflows.
 
 **All good software should tell a story and our tales are written in the language of C++.**   
